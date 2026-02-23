@@ -1,3 +1,14 @@
+
+
+# Data set and big files
+dataset/
+data/
+Dataset/
+datasets/
+*.zip
+*.rar
+*.7z
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
